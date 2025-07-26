@@ -1,0 +1,23 @@
+{
+  "name": "MM Custom Images",
+  "slug": "mm-custom-images",
+  "version": "1.0.0",
+  "author": "Budi Haryono",
+  "author_profile": "https://budiharyono.com",
+  "requires": "5.5",
+  "tested": "6.4",
+  "requires_php": "7.4",
+  "download_url": "https://plugins.budiharyono.com/mm-custom-images/mm-custom-images.v.1.0.0zip",
+  "last_updated": "Jul 25, 2025 10:00:00",
+  "homepage": "https://plugins.budiharyono.com/",
+  "sections": {
+    "description": "Custom plugin untuk situs-situs client saya.",
+    "installation": "Instalasi sangat mudah. Cukup upload file zip dan aktifkan.",
+    "faq": "<strong>Apakah plugin ini gratis?</strong> Tidak, ini custom plugin.",
+    "changelog": "<h4>1.0.0</h4><ul><li>Initial release.</li></ul>"
+  },
+  "banners": {
+    "low": "https://plugins.budiharyono.com/banner/bhy-772x250.png",
+    "high": "https://plugins.budiharyono.com/banner/budiharyono.png"
+  }
+}
